@@ -30,7 +30,7 @@
     "format": "prettier --check \"**/*\""
   },
   "devDependencies": {
-    "@types/jest": "29.2.3",
+    "@types/jest": "29.2.4",
     "@types/node": "16.11.59",
     "@typescript-eslint/eslint-plugin": "5.45.0",
     "@typescript-eslint/parser": "5.44.0",
